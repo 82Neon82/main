@@ -1,0 +1,38 @@
+h1{
+text-align: center;
+border: 12px solid red;
+}
+nav {
+height:100px;
+  
+  
+  border: 2px solid blue;
+
+
+
+}
+a {font-size:30px;
+color:white;
+background-color: black;
+border:1px solid yellow;
+
+}
+p {border:1px solid red;
+padding:10px 110px 10px;
+margin:20px;
+margin-top:30px;
+
+
+
+
+}
+.video{
+
+margin:50%;
+
+}
+.comix{margin:70%;}
+
+.key.opened
+{display:flex;
+animation:tooltip-opener 150ms;}
